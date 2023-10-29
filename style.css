@@ -1,0 +1,32 @@
+.head1{
+    font-weight: bold;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.headtext1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 700px;
+    border-radius: 5px;
+    margin-left: 620px;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
